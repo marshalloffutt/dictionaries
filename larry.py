@@ -6,4 +6,6 @@ larry = {
   'city': 'nashville',
 }
 
-print(larry['first_name'].title() + " " + larry['last_name'].title() + " is " + larry['age'] + " years old, and lives in " + larry['city'].title() + ".")
+print(larry['first_name'].title() + " " + 
+  larry['last_name'].title() + " is " + larry['age'] + 
+  " years old, and lives in " + larry['city'].title() + ".")
